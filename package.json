@@ -14,3 +14,26 @@
     "jquery-emoji-picker": "*"
   }
 }
+"scripts": {
+  "start": "node app.js"
+}
+}
+dans la partie scripts (modifié)
+
+{
+"name": "chat_app_sockets",
+"version": "1.0.0",
+"description": "a simple chat application using express.js and socket.io",
+"main": "index.js",
+"scripts": {
+  "test": "echo "Error: no test specified" && exit 1"
+  "start": "node app.js"
+},
+"author": "stillNovice",
+"license": "ISC",
+"dependencies": {
+  "express": "",
+  "socket.io": "",
+  "jquery-emoji-picker": "*"
+}
+}
