@@ -18,7 +18,6 @@
   "start": "node app.js"
 }
 }
-dans la partie scripts (modifié)
 
 {
 "name": "chat_app_sockets",
